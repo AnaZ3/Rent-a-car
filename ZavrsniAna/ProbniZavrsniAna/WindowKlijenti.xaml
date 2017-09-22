@@ -1,0 +1,69 @@
+﻿<Window x:Class="ProbniZavrsniAna.WindowKlijenti"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProbniZavrsniAna"
+        mc:Ignorable="d"
+        Title="WindowKlijenti" Height="600" Width="1000">
+    <Grid>
+
+        <TextBox x:Name="TextBoxIme" HorizontalAlignment="Left" Height="25" Margin="30,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="TextBoxPrezime" HorizontalAlignment="Left" Height="25" Margin="30,184,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="TextBoxBrDozvole" HorizontalAlignment="Left" Height="25" Margin="30,258,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="TextBoxKontakt" HorizontalAlignment="Left" Height="25" Margin="225,184,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="TextBoxEmail" HorizontalAlignment="Left" Height="25" Margin="225,258,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130"/>
+        <DatePicker x:Name="DatePickerDatumRodjenja" HorizontalAlignment="Left" Margin="225,119,0,0" VerticalAlignment="Top" Width="130" Height="25"/>
+        <Button x:Name="ButtonDodaj" Content="Potvrdi" HorizontalAlignment="Left" Margin="528,446,0,0" VerticalAlignment="Top" Width="95" Click="ButtonDodaj_Click" Height="41"/>
+        <Label Content="Ime" HorizontalAlignment="Left" Margin="30,88,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="Prezime" HorizontalAlignment="Left" Margin="30,158,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="Broj vozacke dozvole" HorizontalAlignment="Left" Margin="30,232,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="Kontakt telefon" HorizontalAlignment="Left" Margin="225,158,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="E-mail" HorizontalAlignment="Left" Margin="225,232,0,0" VerticalAlignment="Top" Width="130"/>
+        <ComboBox x:Name="comboAutomobili" HorizontalAlignment="Left" Margin="503,91,0,0" VerticalAlignment="Top" Width="120"  SelectionChanged="comboAutomobili_SelectionChanged"/>
+        <Button x:Name="ButtonOdustani" Content="Odustani" HorizontalAlignment="Left" Margin="655,447,0,0" VerticalAlignment="Top" Width="95" Click="ButtonOdustani_Click" Height="41"/>
+        <Label Content="Datum rodjenja" HorizontalAlignment="Left" Margin="225,88,0,0" VerticalAlignment="Top" Width="130"/>
+        <Border BorderBrush="BlueViolet" BorderThickness="2" HorizontalAlignment="Left" Height="37" Margin="157,46,0,0" VerticalAlignment="Top" Width="220">
+            <Label Content="Podaci o klijentu i automobilu :" Margin="-1.6,-0.6,-2.4,-3.6" VerticalAlignment="Top" Height="37"  HorizontalContentAlignment="Center" FontFamily="Arial" FontWeight="Bold" FontSize="14" Width="220"/>
+        </Border>
+        <GridSplitter HorizontalAlignment="Left" Height="326" Margin="396,36,0,0" VerticalAlignment="Top" Width="69" Background="DarkGreen"/>
+        <Label Content="Automobl Id" HorizontalAlignment="Left" Margin="509,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tip Id" HorizontalAlignment="Left" Margin="851,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="Brend" HorizontalAlignment="Left" Margin="509,186,0,0" VerticalAlignment="Top"/>
+        <Label Content="Model" HorizontalAlignment="Left" Margin="851,186,0,0" VerticalAlignment="Top"/>
+        <Label Content="Godina proizvodnje" HorizontalAlignment="Left" Margin="509,249,0,0" VerticalAlignment="Top"/>
+        <Label Content="Boja" HorizontalAlignment="Left" Margin="851,249,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kapacitet sedista" HorizontalAlignment="Left" Margin="509,308,0,0" VerticalAlignment="Top"/>
+        <Label Content="Broj vrata" HorizontalAlignment="Left" Margin="851,308,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxAutoId" HorizontalAlignment="Left" Height="23" Margin="509,158,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxBrend" HorizontalAlignment="Left" Height="23" Margin="509,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxGodinaproizvodnje" HorizontalAlignment="Left" Height="23" Margin="509,280,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxKapacitetsedista" HorizontalAlignment="Left" Height="23" Margin="509,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxTipId" HorizontalAlignment="Left" Height="23" Margin="851,158,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxModel" HorizontalAlignment="Left" Height="23" Margin="851,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxBoja" HorizontalAlignment="Left" Height="23" Margin="851,280,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxBrojvrata" HorizontalAlignment="Left" Height="23" Margin="851,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Vrsta menjaca" HorizontalAlignment="Left" Margin="688,155,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tip goriva" HorizontalAlignment="Left" Margin="687,231,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxVrstamenjaca" HorizontalAlignment="Left" Height="23" Margin="688,189,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxTipgoriva" HorizontalAlignment="Left" Height="23" Margin="687,262,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Cena po danu" HorizontalAlignment="Left" Margin="687,298,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxCenapodanu" HorizontalAlignment="Left" Height="23" Margin="688,339,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Datum preuzimanja" HorizontalAlignment="Left" Margin="30,298,0,0" VerticalAlignment="Top"/>
+        <Label Content="Datum vracanja" HorizontalAlignment="Left" Margin="225,298,0,0" VerticalAlignment="Top"/>
+        <Label Content="Vrsta rezervoara" HorizontalAlignment="Left" Margin="851,60,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Ukupna cena" HorizontalAlignment="Left" Margin="367,421,0,0" VerticalAlignment="Top" Height="40" FontSize="15" FontWeight="ExtraBlack" Width="120"/>
+        <TextBox x:Name="TextBoxUkupnaCena" HorizontalAlignment="Left" Height="40" Margin="367,466,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboVrstarezervoara" HorizontalAlignment="Left" Margin="851,91,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboVrstarezervoara_SelectionChanged"/>
+        <Label Content="Izaberi automobil" HorizontalAlignment="Left" Margin="509,60,0,0" VerticalAlignment="Top"/>
+        <Label Content="Podaci o automobilu" HorizontalAlignment="Left" Margin="660,36,0,0" VerticalAlignment="Top" Width="150" Height="37" FontFamily="arial" FontSize="14" FontWeight="Bold"/>
+        <DatePicker x:Name="DatumPreuzimanja" HorizontalAlignment="Left" Margin="30,328,0,0" VerticalAlignment="Top" Height="34" Width="130"/>
+        <DatePicker x:Name="DatumVracanja" HorizontalAlignment="Left" Margin="225,328,0,0" VerticalAlignment="Top" Height="34" Width="130" SelectedDateChanged="DatumVracanja_SelectedDateChanged"/>
+        <Button x:Name="ButtonPrikaziCenu" Content="izracunaj" HorizontalAlignment="Left" Margin="258,473,0,0" VerticalAlignment="Top" Width="75" Click="ButtonPrikaziCenu_Click"/>
+        <RadioButton x:Name="radioSlobodan" Content="slobodan" HorizontalAlignment="Left" Margin="670,387,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioZauzet" Content="zauzet" HorizontalAlignment="Left" Margin="776,387,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboboxKlijenti" HorizontalAlignment="Left" Margin="24,46,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboboxKlijenti_SelectionChanged"/>
+
+
+    </Grid>
+</Window>

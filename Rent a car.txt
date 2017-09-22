@@ -1,0 +1,1 @@
+Rent-a-car je windows aplikacija koja sluzi za cekiranje iznajmljenih automobila, editovanje, azuriranje i brisanje iznajmljivanja. Takodje moze da dodaje nove automobile u bazu i da ih brise. Isto moze i da pamti korisnike usluga i da mijenja njihove podatke. 

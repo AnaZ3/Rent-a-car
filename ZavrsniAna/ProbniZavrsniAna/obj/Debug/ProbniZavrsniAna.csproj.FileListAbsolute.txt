@@ -1,0 +1,90 @@
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csprojResolveAssemblyReference.cache
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\App.g.cs
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.cache
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.lref
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe.config
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.baml
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.g.resources
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.Properties.Resources.resources
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csproj.GenerateResource.Cache
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.g.cs
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.baml
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.g.cs
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.baml
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowAzuriranje.g.cs
+C:\Users\Ana\documents\visual studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.g.cs
+C:\Users\Ana\Documents\Visual Studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowAzuriranje.baml
+C:\Users\Ana\Documents\Visual Studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.baml
+C:\Users\Ana\Documents\Visual Studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.g.cs
+C:\Users\Ana\Documents\Visual Studio 2017\Projects\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe.config
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.pdb
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csprojResolveAssemblyReference.cache
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\App.g.cs
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.cache
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.lref
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.baml
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.g.resources
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.Properties.Resources.resources
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csproj.GenerateResource.Cache
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.exe
+C:\Users\petro\Desktop\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.lref
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe.config
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.g.resources
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.Properties.Resources.resources
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ProbniZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe.config
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\bin\Debug\ProbniZavrsniAna.pdb
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna_MarkupCompile.lref
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowBrisanje.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowKlijenti.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindowNoviAutomobili.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\WindwNoviAutoIzmene.baml
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.g.resources
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.Properties.Resources.resources
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.exe
+C:\Users\Ana\Desktop\Ana Zarubica Zavrsni Rad\ZavrsniAna\ProbniZavrsniAna\obj\Debug\ProbniZavrsniAna.pdb
